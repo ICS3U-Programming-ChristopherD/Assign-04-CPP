@@ -123,7 +123,7 @@ int main() {
         std::cout << ">> Value is ~" << accuracyPerc(sum)
          << "% accurate to the true value of ln2.\n";
 
-          // Outputs true value of ln(2)
+        // Outputs true value of ln(2)
         std::cout << "(True value of ln(2) = 0.69314718056)\n";
 
         // Asks the user if they want to restart
